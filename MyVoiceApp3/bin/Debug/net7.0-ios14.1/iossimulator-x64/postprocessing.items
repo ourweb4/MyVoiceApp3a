@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_PostProcessingItem Include="MyVoiceApp3.app/MyVoiceApp3">
+      <BCSymbolMapName>MyVoiceApp3.bcsymbolmap</BCSymbolMapName>
+      <NoDSymUtil>true</NoDSymUtil>
+      <dSYMSourcePathExists>false</dSYMSourcePathExists>
+      <NoSymbolStrip>true</NoSymbolStrip>
+      <dSYMInfoPlistRelativePath>MyVoiceApp3.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
+      <SymbolFile>\Users\billbanks\Library\Caches\Xamarin\mtbs\builds\MyVoiceApp3\d2b77393dfdddc2fe4ef7f40dd0593ec233d61be158112defc7a4f0655e8bb7a\obj\Debug\net7.0-ios14.1\iossimulator-x64\mtouch-symbols.list</SymbolFile>
+      <DSymName>MyVoiceApp3.app.dSYM</DSymName>
+      <SourceProjectPath>D:\vsprojects\MyVoiceApp3\MyVoiceApp3</SourceProjectPath>
+    </_PostProcessingItem>
+  </ItemGroup>
+</Project>

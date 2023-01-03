@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MyVoiceApp3.Pages.TalkPage">
+    <ContentPage.Content>
+        <StackLayout>
+            <StackLayout  Orientation="Horizontal">
+                <Entry x:Name="etext" HorizontalOptions="FillAndExpand" Placeholder="Text"></Entry>
+                <Button Text="Talk" Clicked="Buttalk_OnClicked" Style="{StaticResource  Mybutton}"></Button>
+                <Button Text="Add" Clicked="ButAdd_OnClicked" Style="{StaticResource  Mybutton}"></Button>
+            </StackLayout>
+            <ListView x:Name="ListWords" SeparatorColor="Blue"
+                      ItemTapped="ListWords_OnItemTapped"  >
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <TextCell Text="{Binding Title}" TextColor="Black" ></TextCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+
+            </ListView>
+
+        </StackLayout>
+    </ContentPage.Content>
+
+</ContentPage>

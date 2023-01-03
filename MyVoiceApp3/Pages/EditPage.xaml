@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MyVoiceApp3.Pages.EditPage">
+  
+    
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="New" Clicked="MenuNew_OnClicked"></ToolbarItem>
+        <ToolbarItem Text="Save" Clicked="MenuSave_OnClicked"></ToolbarItem>
+        <ToolbarItem Text="Delete" Clicked="MenuDelete_OnClicked"></ToolbarItem>
+    </ContentPage.ToolbarItems>
+    <ContentPage.Content>
+        <StackLayout Orientation="Vertical">
+            <Entry x:Name="etitle" Placeholder="Title" HorizontalOptions="FillAndExpand"></Entry>
+            <Entry x:Name="ephrase" Placeholder="Phrase" HorizontalOptions="FillAndExpand"></Entry>
+            <Entry x:Name="eorder" Placeholder="Order" HorizontalOptions="FillAndExpand"></Entry>
+            <Button Text="Test" Clicked="Buttest_OnClicked"></Button>
+            <ListView x:Name="ListWords" SeparatorColor="Blue"
+                      ItemSelected="ListWords_OnItemSelected"
+                      ItemTapped="ListWords_OnItemTapped">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <TextCell Text="{Binding Title}" Detail="{Binding Order}"></TextCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+
+        </StackLayout>
+    </ContentPage.Content>
+
+</ContentPage>
