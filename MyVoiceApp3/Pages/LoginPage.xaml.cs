@@ -25,14 +25,6 @@ namespace MyVoiceApp3.Pages
             BindingContext = logindata;
         }
 
-        protected override async void OnAppearing()
-        {
-            base.OnAppearing();
-
-             if (Preferences.Get("token", "") != null)
-                await Shell.Current.GoToAsync($"//{nameof(TalkPage)}");
-
-        }
 
 
         private async void btnlogin_Clicked(object sender, EventArgs e)

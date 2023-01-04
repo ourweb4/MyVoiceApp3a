@@ -40,7 +40,6 @@ D:\vsprojects\MyVoiceApp3\MyVoiceApp3\bin\Debug\net7.0-windows10.0.19041.0\win10
 D:\vsprojects\MyVoiceApp3\MyVoiceApp3\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\SQLitePCLRaw.provider.dynamic_cdecl.dll
 D:\vsprojects\MyVoiceApp3\MyVoiceApp3\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Graphics.Canvas.dll
 D:\vsprojects\MyVoiceApp3\MyVoiceApp3\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.dll
-D:\vsprojects\MyVoiceApp3\MyVoiceApp3\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\sqlite3.dll
 D:\vsprojects\MyVoiceApp3\MyVoiceApp3\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\e_sqlite3.dll
 D:\vsprojects\MyVoiceApp3\MyVoiceApp3\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.CSharp.dll
 D:\vsprojects\MyVoiceApp3\MyVoiceApp3\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.VisualBasic.Core.dll

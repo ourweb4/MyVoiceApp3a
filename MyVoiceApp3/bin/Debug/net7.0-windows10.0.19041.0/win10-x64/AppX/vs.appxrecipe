@@ -29,25 +29,25 @@
     <AppXManifest Include="D:\vsprojects\MyVoiceApp3\MyVoiceApp3\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-12-30T15:26:36.909</Modified>
+      <Modified>2023-01-04T19:35:32.383</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="D:\vsprojects\MyVoiceApp3\MyVoiceApp3\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2022-12-30T15:26:36.680</Modified>
+      <Modified>2023-01-04T19:35:32.162</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\vsprojects\MyVoiceApp3\MyVoiceApp3\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\MyVoiceApp3.runtimeconfig.json">
       <PackagePath>MyVoiceApp3.runtimeconfig.json</PackagePath>
-      <Modified>2022-12-30T15:26:36.546</Modified>
+      <Modified>2023-01-04T19:35:32.097</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\vsprojects\MyVoiceApp3\MyVoiceApp3\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\MyVoiceApp3.dll">
       <PackagePath>MyVoiceApp3.dll</PackagePath>
-      <Modified>2022-12-30T15:26:35.584</Modified>
+      <Modified>2023-01-04T19:35:31.192</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\vsprojects\MyVoiceApp3\MyVoiceApp3\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>MyVoiceApp3.exe</PackagePath>
-      <Modified>2022-12-30T15:26:35.617</Modified>
+      <Modified>2023-01-04T19:35:31.237</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Bill\.nuget\packages\microsoft.netcore.app.runtime.win-x64\7.0.1\runtimes\win-x64\lib\net7.0\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -941,17 +941,13 @@
       <PackagePath>Microsoft.WindowsAppRuntime.Bootstrap.dll</PackagePath>
       <Modified>2022-11-08T19:31:24.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Bill\.nuget\packages\sqlite\3.13.0\runtimes\win7-x64\native\sqlite3.dll">
-      <PackagePath>sqlite3.dll</PackagePath>
-      <Modified>2016-10-18T21:36:58.000</Modified>
-    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Bill\.nuget\packages\sqlitepclraw.lib.e_sqlite3\2.0.4\runtimes\win-x64\native\e_sqlite3.dll">
       <PackagePath>e_sqlite3.dll</PackagePath>
       <Modified>2020-08-17T14:38:20.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\vsprojects\MyVoiceApp3\MyVoiceApp3\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\MyVoiceApp3.deps.json">
       <PackagePath>MyVoiceApp3.deps.json</PackagePath>
-      <Modified>2022-12-30T15:26:36.817</Modified>
+      <Modified>2023-01-04T19:35:32.294</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files\dotnet\packs\Microsoft.Maui.Controls.Ref.win\7.0.52\ref\net7.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.pri">
       <PackagePath>Microsoft.Maui.Controls.Compatibility.pri</PackagePath>
@@ -971,23 +967,23 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\vsprojects\MyVoiceApp3\MyVoiceApp3\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
       <PackagePath>splashSplashScreen.scale-100.png</PackagePath>
-      <Modified>2022-12-30T15:26:35.124</Modified>
+      <Modified>2023-01-04T19:35:30.762</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\vsprojects\MyVoiceApp3\MyVoiceApp3\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
       <PackagePath>splashSplashScreen.scale-125.png</PackagePath>
-      <Modified>2022-12-30T15:26:35.133</Modified>
+      <Modified>2023-01-04T19:35:30.770</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\vsprojects\MyVoiceApp3\MyVoiceApp3\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
       <PackagePath>splashSplashScreen.scale-150.png</PackagePath>
-      <Modified>2022-12-30T15:26:35.148</Modified>
+      <Modified>2023-01-04T19:35:30.782</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\vsprojects\MyVoiceApp3\MyVoiceApp3\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
       <PackagePath>splashSplashScreen.scale-200.png</PackagePath>
-      <Modified>2022-12-30T15:26:35.164</Modified>
+      <Modified>2023-01-04T19:35:30.798</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\vsprojects\MyVoiceApp3\MyVoiceApp3\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
       <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
-      <Modified>2022-12-30T15:26:35.236</Modified>
+      <Modified>2023-01-04T19:35:30.868</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\vsprojects\MyVoiceApp3\MyVoiceApp3\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
       <PackagePath>OpenSans-Regular.ttf</PackagePath>
@@ -999,207 +995,207 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\vsprojects\MyVoiceApp3\MyVoiceApp3\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
-      <Modified>2022-12-30T15:26:35.269</Modified>
+      <Modified>2023-01-04T19:35:30.881</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\vsprojects\MyVoiceApp3\MyVoiceApp3\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
-      <Modified>2022-12-30T15:26:35.395</Modified>
+      <Modified>2023-01-04T19:35:31.015</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\vsprojects\MyVoiceApp3\MyVoiceApp3\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
       <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
-      <Modified>2022-12-30T15:26:35.401</Modified>
+      <Modified>2023-01-04T19:35:31.022</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\vsprojects\MyVoiceApp3\MyVoiceApp3\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
       <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
-      <Modified>2022-12-30T15:26:35.407</Modified>
+      <Modified>2023-01-04T19:35:31.028</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\vsprojects\MyVoiceApp3\MyVoiceApp3\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
       <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
-      <Modified>2022-12-30T15:26:35.416</Modified>
+      <Modified>2023-01-04T19:35:31.037</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\vsprojects\MyVoiceApp3\MyVoiceApp3\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
-      <Modified>2022-12-30T15:26:35.453</Modified>
+      <Modified>2023-01-04T19:35:31.072</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\vsprojects\MyVoiceApp3\MyVoiceApp3\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-16.png</PackagePath>
-      <Modified>2022-12-30T15:26:35.305</Modified>
+      <Modified>2023-01-04T19:35:30.921</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\vsprojects\MyVoiceApp3\MyVoiceApp3\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
-      <Modified>2022-12-30T15:26:35.306</Modified>
+      <Modified>2023-01-04T19:35:30.923</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\vsprojects\MyVoiceApp3\MyVoiceApp3\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
-      <Modified>2022-12-30T15:26:35.313</Modified>
+      <Modified>2023-01-04T19:35:30.930</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\vsprojects\MyVoiceApp3\MyVoiceApp3\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
-      <Modified>2022-12-30T15:26:35.307</Modified>
+      <Modified>2023-01-04T19:35:30.924</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\vsprojects\MyVoiceApp3\MyVoiceApp3\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
-      <Modified>2022-12-30T15:26:35.309</Modified>
+      <Modified>2023-01-04T19:35:30.926</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\vsprojects\MyVoiceApp3\MyVoiceApp3\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-16.png</PackagePath>
-      <Modified>2022-12-30T15:26:35.296</Modified>
+      <Modified>2023-01-04T19:35:30.911</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\vsprojects\MyVoiceApp3\MyVoiceApp3\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-24.png</PackagePath>
-      <Modified>2022-12-30T15:26:35.297</Modified>
+      <Modified>2023-01-04T19:35:30.912</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\vsprojects\MyVoiceApp3\MyVoiceApp3\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-256.png</PackagePath>
-      <Modified>2022-12-30T15:26:35.304</Modified>
+      <Modified>2023-01-04T19:35:30.920</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\vsprojects\MyVoiceApp3\MyVoiceApp3\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-32.png</PackagePath>
-      <Modified>2022-12-30T15:26:35.298</Modified>
+      <Modified>2023-01-04T19:35:30.914</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\vsprojects\MyVoiceApp3\MyVoiceApp3\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-48.png</PackagePath>
-      <Modified>2022-12-30T15:26:35.300</Modified>
+      <Modified>2023-01-04T19:35:30.916</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\vsprojects\MyVoiceApp3\MyVoiceApp3\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
-      <Modified>2022-12-30T15:26:35.275</Modified>
+      <Modified>2023-01-04T19:35:30.887</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\vsprojects\MyVoiceApp3\MyVoiceApp3\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
       <PackagePath>appiconLogo.scale-125.png</PackagePath>
-      <Modified>2022-12-30T15:26:35.278</Modified>
+      <Modified>2023-01-04T19:35:30.890</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\vsprojects\MyVoiceApp3\MyVoiceApp3\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
       <PackagePath>appiconLogo.scale-150.png</PackagePath>
-      <Modified>2022-12-30T15:26:35.280</Modified>
+      <Modified>2023-01-04T19:35:30.892</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\vsprojects\MyVoiceApp3\MyVoiceApp3\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
       <PackagePath>appiconLogo.scale-200.png</PackagePath>
-      <Modified>2022-12-30T15:26:35.282</Modified>
+      <Modified>2023-01-04T19:35:30.894</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\vsprojects\MyVoiceApp3\MyVoiceApp3\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
       <PackagePath>appiconLogo.scale-400.png</PackagePath>
-      <Modified>2022-12-30T15:26:35.285</Modified>
+      <Modified>2023-01-04T19:35:30.898</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\vsprojects\MyVoiceApp3\MyVoiceApp3\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
       <PackagePath>appiconLogo.targetsize-16.png</PackagePath>
-      <Modified>2022-12-30T15:26:35.287</Modified>
+      <Modified>2023-01-04T19:35:30.900</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\vsprojects\MyVoiceApp3\MyVoiceApp3\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
       <PackagePath>appiconLogo.targetsize-24.png</PackagePath>
-      <Modified>2022-12-30T15:26:35.288</Modified>
+      <Modified>2023-01-04T19:35:30.901</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\vsprojects\MyVoiceApp3\MyVoiceApp3\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
       <PackagePath>appiconLogo.targetsize-256.png</PackagePath>
-      <Modified>2022-12-30T15:26:35.294</Modified>
+      <Modified>2023-01-04T19:35:30.909</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\vsprojects\MyVoiceApp3\MyVoiceApp3\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
       <PackagePath>appiconLogo.targetsize-32.png</PackagePath>
-      <Modified>2022-12-30T15:26:35.290</Modified>
+      <Modified>2023-01-04T19:35:30.903</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\vsprojects\MyVoiceApp3\MyVoiceApp3\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
       <PackagePath>appiconLogo.targetsize-48.png</PackagePath>
-      <Modified>2022-12-30T15:26:35.291</Modified>
+      <Modified>2023-01-04T19:35:30.905</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\vsprojects\MyVoiceApp3\MyVoiceApp3\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
       <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
-      <Modified>2022-12-30T15:26:35.334</Modified>
+      <Modified>2023-01-04T19:35:30.954</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\vsprojects\MyVoiceApp3\MyVoiceApp3\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
       <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
-      <Modified>2022-12-30T15:26:35.337</Modified>
+      <Modified>2023-01-04T19:35:30.957</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\vsprojects\MyVoiceApp3\MyVoiceApp3\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
       <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
-      <Modified>2022-12-30T15:26:35.340</Modified>
+      <Modified>2023-01-04T19:35:30.960</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\vsprojects\MyVoiceApp3\MyVoiceApp3\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
       <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
-      <Modified>2022-12-30T15:26:35.345</Modified>
+      <Modified>2023-01-04T19:35:30.965</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\vsprojects\MyVoiceApp3\MyVoiceApp3\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
       <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
-      <Modified>2022-12-30T15:26:35.356</Modified>
+      <Modified>2023-01-04T19:35:30.974</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\vsprojects\MyVoiceApp3\MyVoiceApp3\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
       <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
-      <Modified>2022-12-30T15:26:35.324</Modified>
+      <Modified>2023-01-04T19:35:30.941</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\vsprojects\MyVoiceApp3\MyVoiceApp3\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
       <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
-      <Modified>2022-12-30T15:26:35.325</Modified>
+      <Modified>2023-01-04T19:35:30.943</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\vsprojects\MyVoiceApp3\MyVoiceApp3\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
       <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
-      <Modified>2022-12-30T15:26:35.326</Modified>
+      <Modified>2023-01-04T19:35:30.945</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\vsprojects\MyVoiceApp3\MyVoiceApp3\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
       <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
-      <Modified>2022-12-30T15:26:35.329</Modified>
+      <Modified>2023-01-04T19:35:30.948</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\vsprojects\MyVoiceApp3\MyVoiceApp3\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
       <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
-      <Modified>2022-12-30T15:26:35.332</Modified>
+      <Modified>2023-01-04T19:35:30.952</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\vsprojects\MyVoiceApp3\MyVoiceApp3\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
       <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
-      <Modified>2022-12-30T15:26:35.315</Modified>
+      <Modified>2023-01-04T19:35:30.931</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\vsprojects\MyVoiceApp3\MyVoiceApp3\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
       <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
-      <Modified>2022-12-30T15:26:35.316</Modified>
+      <Modified>2023-01-04T19:35:30.933</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\vsprojects\MyVoiceApp3\MyVoiceApp3\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
       <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
-      <Modified>2022-12-30T15:26:35.318</Modified>
+      <Modified>2023-01-04T19:35:30.935</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\vsprojects\MyVoiceApp3\MyVoiceApp3\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
       <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
-      <Modified>2022-12-30T15:26:35.319</Modified>
+      <Modified>2023-01-04T19:35:30.937</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\vsprojects\MyVoiceApp3\MyVoiceApp3\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
       <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
-      <Modified>2022-12-30T15:26:35.322</Modified>
+      <Modified>2023-01-04T19:35:30.940</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\vsprojects\MyVoiceApp3\MyVoiceApp3\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
       <PackagePath>appiconWideTile.scale-100.png</PackagePath>
-      <Modified>2022-12-30T15:26:35.359</Modified>
+      <Modified>2023-01-04T19:35:30.977</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\vsprojects\MyVoiceApp3\MyVoiceApp3\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
       <PackagePath>appiconWideTile.scale-125.png</PackagePath>
-      <Modified>2022-12-30T15:26:35.362</Modified>
+      <Modified>2023-01-04T19:35:30.981</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\vsprojects\MyVoiceApp3\MyVoiceApp3\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
       <PackagePath>appiconWideTile.scale-150.png</PackagePath>
-      <Modified>2022-12-30T15:26:35.366</Modified>
+      <Modified>2023-01-04T19:35:30.986</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\vsprojects\MyVoiceApp3\MyVoiceApp3\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
       <PackagePath>appiconWideTile.scale-200.png</PackagePath>
-      <Modified>2022-12-30T15:26:35.373</Modified>
+      <Modified>2023-01-04T19:35:30.993</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\vsprojects\MyVoiceApp3\MyVoiceApp3\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
-      <Modified>2022-12-30T15:26:35.390</Modified>
+      <Modified>2023-01-04T19:35:31.010</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\vsprojects\MyVoiceApp3\MyVoiceApp3\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
-      <Modified>2022-12-30T15:26:35.293</Modified>
+      <Modified>2023-01-04T19:35:30.882</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\vsprojects\MyVoiceApp3\MyVoiceApp3\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
       <PackagePath>dotnet_bot.scale-125.png</PackagePath>
-      <Modified>2022-12-30T15:26:35.299</Modified>
+      <Modified>2023-01-04T19:35:30.888</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\vsprojects\MyVoiceApp3\MyVoiceApp3\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
       <PackagePath>dotnet_bot.scale-150.png</PackagePath>
-      <Modified>2022-12-30T15:26:35.307</Modified>
+      <Modified>2023-01-04T19:35:30.896</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\vsprojects\MyVoiceApp3\MyVoiceApp3\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
       <PackagePath>dotnet_bot.scale-200.png</PackagePath>
-      <Modified>2022-12-30T15:26:35.319</Modified>
+      <Modified>2023-01-04T19:35:30.908</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\vsprojects\MyVoiceApp3\MyVoiceApp3\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
-      <Modified>2022-12-30T15:26:35.351</Modified>
+      <Modified>2023-01-04T19:35:30.939</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

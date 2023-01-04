@@ -9,7 +9,7 @@
     <ShellItem Route="LoginPage" FlyoutItemIsVisible="False" >
         <ShellContent ContentTemplate="{DataTemplate local:LoginPage}" />
     </ShellItem>
-
+ 
     <FlyoutItem Title="Home" Route="TalkPage">
         <ShellContent ContentTemplate="{DataTemplate local:TalkPage}" />
     </FlyoutItem>
